@@ -6,3 +6,4 @@ const myNotes = getNotes()
 
 console.log(myNotes)
 
+console.log(validator.isURL('https://synteki.io'))
